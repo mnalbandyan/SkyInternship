@@ -4,7 +4,11 @@ using System.Text;
 
 namespace InternshipTestProject.CpuDestroyer
 {
-    internal class Destroyer
+    class Destroyer
     {
+        void Print()
+        {
+            Console.WriteLine("YEEEEEEEEEEEEEEEEEEEEEEEEEEEEEeee");
+        }
     }
 }
