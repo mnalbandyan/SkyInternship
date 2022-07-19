@@ -1,0 +1,14 @@
+C:\git\SkyInternship\InternshipTestProject\InternshipTestProject\bin\Debug\netcoreapp3.1\InternshipTestProject.exe
+C:\git\SkyInternship\InternshipTestProject\InternshipTestProject\bin\Debug\netcoreapp3.1\InternshipTestProject.deps.json
+C:\git\SkyInternship\InternshipTestProject\InternshipTestProject\bin\Debug\netcoreapp3.1\InternshipTestProject.runtimeconfig.json
+C:\git\SkyInternship\InternshipTestProject\InternshipTestProject\bin\Debug\netcoreapp3.1\InternshipTestProject.runtimeconfig.dev.json
+C:\git\SkyInternship\InternshipTestProject\InternshipTestProject\bin\Debug\netcoreapp3.1\InternshipTestProject.dll
+C:\git\SkyInternship\InternshipTestProject\InternshipTestProject\bin\Debug\netcoreapp3.1\InternshipTestProject.pdb
+C:\git\SkyInternship\InternshipTestProject\InternshipTestProject\obj\Debug\netcoreapp3.1\InternshipTestProject.csproj.AssemblyReference.cache
+C:\git\SkyInternship\InternshipTestProject\InternshipTestProject\obj\Debug\netcoreapp3.1\InternshipTestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SkyInternship\InternshipTestProject\InternshipTestProject\obj\Debug\netcoreapp3.1\InternshipTestProject.AssemblyInfoInputs.cache
+C:\git\SkyInternship\InternshipTestProject\InternshipTestProject\obj\Debug\netcoreapp3.1\InternshipTestProject.AssemblyInfo.cs
+C:\git\SkyInternship\InternshipTestProject\InternshipTestProject\obj\Debug\netcoreapp3.1\InternshipTestProject.csproj.CoreCompileInputs.cache
+C:\git\SkyInternship\InternshipTestProject\InternshipTestProject\obj\Debug\netcoreapp3.1\InternshipTestProject.dll
+C:\git\SkyInternship\InternshipTestProject\InternshipTestProject\obj\Debug\netcoreapp3.1\InternshipTestProject.pdb
+C:\git\SkyInternship\InternshipTestProject\InternshipTestProject\obj\Debug\netcoreapp3.1\InternshipTestProject.genruntimeconfig.cache
